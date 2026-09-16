@@ -39,8 +39,8 @@
 
 ### 🔗 Secure Channels
 * **GitHub:** [github.com/JewelsCoode](https://github.com/JewelsCoode)
-* **LinkedIn:** [Link to your LinkedIn Profile](https://linkedin.com)
-* **Contact:** [Your Email / Professional Website]
+* **LinkedIn:** 
+* **Contact:** 
 
 <br />
 <div align="center">
