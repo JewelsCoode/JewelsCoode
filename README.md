@@ -1,69 +1,48 @@
-# Hi, I'm Julia 👋
+<!-- 
+  Aesthetic: Medical-Tech / Diagnostic UI
+  Palette: Dark background, crisp white text, blue/cyan accents
+-->
 
-### Computer Science • Medical Imaging • Ultrasound • AI 🩻💻🤖
+<div align="center">
 
-I'm a Computer Science student exploring the intersection of
-software development, medical imaging, ultrasound technology,
-and artificial intelligence.
+# 🩻 SYSTEM INITIALIZED: JEWELSCOODE
+### Software Engineer | Sonography & Clinical Systems
 
-I'm building projects that combine programming with healthcare
-technology while developing my foundation in anatomy, imaging,
-computer vision, and AI.
-
----
-
-## 🩻 What I'm Learning
-
-- Computer Science
-- Medical Imaging
-- Ultrasound Technology
-- Anatomy & Physiology
-- Medical Image Processing
-- Computer Vision
-- Artificial Intelligence
-- Healthcare Software
+</div>
 
 ---
 
-## 🚀 Featured Projects
-
-### 🩻 DICOM Viewer
-A browser-based medical imaging viewer built with React,
-TypeScript, and Cornerstone3D.
-
-**Tech:** TypeScript • React • Cornerstone3D
-
-[View Project →]
+### 🩺 Diagnostic Profile
+* **Engineering Focus:** Full-stack architecture, medical imaging workflows, medical Sonography, and data pipelines
+* **Core Stack:** Java, Python, React
+* **Current Status:** Bridging diagnostic sonography and robust computer science systems 
 
 ---
 
-### 🧬 Interactive Anatomy Viewer
-An interactive educational anatomy application exploring
-human anatomy and medical visualization.
+### 📊 System Metrics & Activity
 
-**Tech:** React • TypeScript • 3D Visualization
+<div align="center">
 
-[View Project →]
+<!-- Subtle cyan/blue accents via shields.io badges -->
+<img src="https://img.shields.io/badge/Status-Operational-00f2fe?style=flat-square&logo=reactivex&logoColor=white" alt="Status" />
+<img src="https://img.shields.io/badge/Domain-Sonography_%26_CS-4facfe?style=flat-square&logo=databricks&logoColor=white" alt="Domain" />
 
----
+</div>
 
-### 📏 Ultrasound Measurement Tool
-An educational imaging application for interacting with
-ultrasound images and performing basic measurements.
-
-**Tech:** React • TypeScript • Image Processing
-
-[View Project →]
+<!-- Minimalist GitHub stats styled for dark mode -->
+<br />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JewelsCoode&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</div>
 
 ---
 
-## 🧠 Currently Exploring
+### 🔗 Secure Channels
+* **GitHub:** [github.com/JewelsCoode](https://github.com/JewelsCoode)
+* **LinkedIn:** [Link to your LinkedIn Profile](https://linkedin.com)
+* **Contact:** [Your Email / Professional Website]
 
-```text
-Medical Imaging
-      ↓
-Ultrasound
-      ↓
-Computer Vision
-      ↓
-Medical AI
+<br />
+<div align="center">
+  <sub>[ SYSTEM SECURE // END OF FILE ]</sub>
+</div>
