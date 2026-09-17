@@ -227,18 +227,6 @@ Interactive web experiment combining a 3D glass model with a customizable drink 
 **STATUS:** `EXPERIMENTAL`
 
 </td>
-
-<td width="50%" valign="top">
-
-### 🎃 TRICK-OR-TREAT
-
-Roblox game project exploring interaction systems, leaderboards, events, and gameplay logic.
-
-`ROBLOX` `LUA`
-
-**STATUS:** `BUILDING`
-
-</td>
 </tr>
 </table>
 
